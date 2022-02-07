@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\GenericStudent.exe
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\GenericStudent.deps.json
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\GenericStudent.runtimeconfig.json
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\GenericStudent.dll
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\ref\GenericStudent.dll
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\bin\Debug\net6.0\GenericStudent.pdb
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.dll
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\ref\GenericStudent.dll
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.pdb
+C:\Users\Pavani\source\repos\GenericStudent\GenericStudent\obj\Debug\net6.0\GenericStudent.genruntimeconfig.cache
